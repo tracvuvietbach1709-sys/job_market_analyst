@@ -1,0 +1,201 @@
+﻿external_id,title,role,level,city,salary_min,salary_max,skills,company,source,source_url,posted_date
+DEMO-0001,Intern Data Analyst,Data Analyst,Intern,TP. Hồ Chí Minh,4.9,9.1,Statistics;SQL;Power BI;Data Visualization;Communication,Demo Company 01,LinkedIn,,2026-10-17
+DEMO-0002,Fresher IT Risk,IT Risk,Fresher,Hà Nội,8.9,14.2,COBIT;ISO 27001;Internal Audit;Communication;Excel,Demo Company 02,VietnamWorks,,2026-10-08
+DEMO-0003,Fresher Software Development,Software Development,Fresher,TP. Hồ Chí Minh,7.3,10.6,Python;JavaScript;Git;Agile;Docker,Demo Company 03,LinkedIn,,2026-08-31
+DEMO-0004,Intern Cyber Security,Cyber Security,Intern,Đà Nẵng,,,SIEM;ISO 27001;Penetration Testing;Vulnerability Assessment;Python,Demo Company 04,VietnamWorks,,2026-10-20
+DEMO-0005,Junior Data Analyst,Data Analyst,Junior,Hà Nội,16.4,29.2,Power BI;Python;Tableau;Data Modeling;Data Visualization,Demo Company 05,LinkedIn,,2026-09-11
+DEMO-0006,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,8.6,13.7,Jira;SQL;Process Mapping;Scrum;Communication,Demo Company 06,VietnamWorks,,2026-09-10
+DEMO-0007,Senior Business Analyst,Business Analyst,Senior,Hà Nội,31.7,61.1,Requirements Gathering;Jira;Process Mapping;Excel;Scrum,Demo Company 07,LinkedIn,,2026-09-24
+DEMO-0008,Fresher Data Analyst,Data Analyst,Fresher,Bình Dương,7.3,13.9,Power BI;Tableau;Excel;Data Modeling;Data Visualization,Demo Company 08,VietnamWorks,,2026-09-27
+DEMO-0009,Junior Cyber Security,Cyber Security,Junior,Hà Nội,15.3,26.2,Linux;ISO 27001;Incident Response;OWASP;SOC,Demo Company 09,LinkedIn,,2026-10-14
+DEMO-0010,Junior IT Risk,IT Risk,Junior,Hà Nội,13.3,26.3,COBIT;IT Governance;Information Security;Excel;Communication,Demo Company 10,VietnamWorks,,2026-10-14
+DEMO-0011,Junior Cyber Security,Cyber Security,Junior,Hà Nội,14.2,24.9,Network Security;SIEM;Linux;OWASP;Python,Demo Company 11,LinkedIn,,2026-09-20
+DEMO-0012,Junior Cyber Security,Cyber Security,Junior,TP. Hồ Chí Minh,15.2,28.7,ISO 27001;Network Security;SIEM;SOC;OWASP,Demo Company 12,VietnamWorks,,2026-10-14
+DEMO-0013,Senior Business Analyst,Business Analyst,Senior,Đà Nẵng,29.2,61.3,Requirements Gathering;Process Mapping;Business Analysis;Stakeholder Management;Excel,Demo Company 13,LinkedIn,,2026-10-12
+DEMO-0014,Junior IT Risk,IT Risk,Junior,Bình Dương,,,IT Governance;Internal Audit;COBIT;SQL;Communication,Demo Company 14,VietnamWorks,,2026-08-01
+DEMO-0015,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,14.5,29.4,COBIT;Risk Assessment;ISO 27001;SQL;Excel,Demo Company 15,LinkedIn,,2026-09-15
+DEMO-0016,Junior Data Analyst,Data Analyst,Junior,TP. Hồ Chí Minh,13.3,27.8,Excel;SQL;Statistics;Data Modeling;Data Visualization,Demo Company 16,VietnamWorks,,2026-08-24
+DEMO-0017,Fresher IT Risk,IT Risk,Fresher,Hà Nội,8.9,15.3,IT Governance;COBIT;ISO 27001;AWS;SQL,Demo Company 17,LinkedIn,,2026-10-04
+DEMO-0018,Intern Data Analyst,Data Analyst,Intern,TP. Hồ Chí Minh,3.9,9.4,Tableau;SQL;Statistics;Communication;Data Modeling,Demo Company 18,VietnamWorks,,2026-09-15
+DEMO-0019,Fresher Data Analyst,Data Analyst,Fresher,TP. Hồ Chí Minh,7.7,11.7,Excel;SQL;Power BI;Data Visualization;Communication,Demo Company 01,LinkedIn,,2026-08-06
+DEMO-0020,Senior Cyber Security,Cyber Security,Senior,Bình Dương,32.4,57.0,Incident Response;Penetration Testing;Linux;SOC;OWASP,Demo Company 02,VietnamWorks,,2026-10-07
+DEMO-0021,Intern Software Development,Software Development,Intern,TP. Hồ Chí Minh,5.1,6.7,React;Git;TypeScript;SQL;Docker,Demo Company 03,LinkedIn,,2026-09-21
+DEMO-0022,Senior IT Risk,IT Risk,Senior,Hà Nội,32.0,56.3,IT Governance;COBIT;ISO 27001;Excel;Communication,Demo Company 04,VietnamWorks,,2026-10-18
+DEMO-0023,Intern IT Risk,IT Risk,Intern,TP. Hồ Chí Minh,3.6,10.6,IT Governance;ISO 27001;Risk Assessment;Excel;SQL,Demo Company 05,LinkedIn,,2026-08-05
+DEMO-0024,Junior Cyber Security,Cyber Security,Junior,TP. Hồ Chí Minh,15.7,25.9,SIEM;Incident Response;Linux;Python;Vulnerability Assessment,Demo Company 06,VietnamWorks,,2026-09-18
+DEMO-0025,Intern Data Analyst,Data Analyst,Intern,Hà Nội,2.4,8.2,Statistics;Python;Excel;Data Modeling;Data Visualization,Demo Company 07,LinkedIn,,2026-09-27
+DEMO-0026,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,7.2,15.9,Process Mapping;SQL;Requirements Gathering;Excel;Communication,Demo Company 08,VietnamWorks,,2026-10-15
+DEMO-0027,Fresher IT Risk,IT Risk,Fresher,Đà Nẵng,6.6,11.7,ISO 27001;Information Security;Internal Audit;Communication;AWS,Demo Company 09,LinkedIn,,2026-08-27
+DEMO-0028,Senior Business Analyst,Business Analyst,Senior,Đà Nẵng,,,Business Analysis;Agile;Requirements Gathering;Stakeholder Management;Scrum,Demo Company 10,VietnamWorks,,2026-10-12
+DEMO-0029,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,8.2,10.7,Process Mapping;Jira;Requirements Gathering;Excel;Communication,Demo Company 11,LinkedIn,,2026-08-19
+DEMO-0030,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,16.7,29.8,Risk Assessment;Information Security;ISO 27001;SQL;Communication,Demo Company 12,VietnamWorks,,2026-10-15
+DEMO-0031,Senior Business Analyst,Business Analyst,Senior,Đà Nẵng,31.5,56.9,Jira;Process Mapping;SQL;Communication;Stakeholder Management,Demo Company 13,LinkedIn,,2026-10-06
+DEMO-0032,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,31.9,57.5,Jira;Requirements Gathering;Business Analysis;Stakeholder Management;Scrum,Demo Company 14,VietnamWorks,,2026-09-30
+DEMO-0033,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,32.2,57.4,Risk Assessment;ISO 27001;COBIT;Communication;SQL,Demo Company 15,LinkedIn,,2026-10-20
+DEMO-0034,Fresher Business Analyst,Business Analyst,Fresher,Hà Nội,9.4,12.0,Requirements Gathering;Process Mapping;Agile;Scrum;Excel,Demo Company 16,VietnamWorks,,2026-09-25
+DEMO-0035,Intern Data Analyst,Data Analyst,Intern,TP. Hồ Chí Minh,3.3,8.6,Statistics;SQL;Power BI;ETL;Communication,Demo Company 17,LinkedIn,,2026-10-23
+DEMO-0036,Intern Software Development,Software Development,Intern,Đà Nẵng,4.9,9.5,React;Java;JavaScript;AWS;Docker,Demo Company 18,VietnamWorks,,2026-08-04
+DEMO-0037,Junior Business Analyst,Business Analyst,Junior,Hà Nội,,,Agile;SQL;Process Mapping;Communication;Scrum,Demo Company 01,LinkedIn,,2026-09-07
+DEMO-0038,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,14.5,28.5,Jira;SQL;Agile;Communication;Excel,Demo Company 02,VietnamWorks,,2026-10-28
+DEMO-0039,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,8.6,12.8,Business Analysis;Jira;Process Mapping;Scrum;Excel,Demo Company 03,LinkedIn,,2026-10-18
+DEMO-0040,Junior Business Analyst,Business Analyst,Junior,Hà Nội,16.3,28.5,Process Mapping;Agile;Jira;Scrum;Stakeholder Management,Demo Company 04,VietnamWorks,,2026-10-25
+DEMO-0041,Fresher Data Analyst,Data Analyst,Fresher,TP. Hồ Chí Minh,6.3,12.5,Tableau;Statistics;Excel;Communication;ETL,Demo Company 05,LinkedIn,,2026-09-07
+DEMO-0042,Intern IT Risk,IT Risk,Intern,Hà Nội,5.4,10.3,COBIT;ISO 27001;IT Governance;AWS;Excel,Demo Company 06,VietnamWorks,,2026-08-18
+DEMO-0043,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,,,COBIT;IT Governance;Information Security;AWS;Communication,Demo Company 07,LinkedIn,,2026-08-25
+DEMO-0044,Senior Software Development,Software Development,Senior,Hà Nội,32.0,58.8,JavaScript;Java;React;AWS;Agile,Demo Company 08,VietnamWorks,,2026-09-28
+DEMO-0045,Junior Business Analyst,Business Analyst,Junior,Hà Nội,14.3,29.4,Requirements Gathering;Jira;SQL;Scrum;Communication,Demo Company 09,LinkedIn,,2026-08-01
+DEMO-0046,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,15.2,26.5,ISO 27001;COBIT;IT Governance;Excel;Communication,Demo Company 10,VietnamWorks,,2026-09-10
+DEMO-0047,Intern Software Development,Software Development,Intern,TP. Hồ Chí Minh,5.4,10.7,TypeScript;Git;Java;AWS;Docker,Demo Company 11,LinkedIn,,2026-09-24
+DEMO-0048,Junior Software Development,Software Development,Junior,TP. Hồ Chí Minh,16.2,28.3,TypeScript;Java;Python;AWS;Agile,Demo Company 12,VietnamWorks,,2026-08-17
+DEMO-0049,Intern Data Analyst,Data Analyst,Intern,TP. Hồ Chí Minh,2.7,6.6,Python;Excel;Power BI;Data Modeling;ETL,Demo Company 13,LinkedIn,,2026-09-10
+DEMO-0050,Junior Business Analyst,Business Analyst,Junior,Đà Nẵng,13.3,24.1,SQL;Requirements Gathering;Agile;Scrum;Excel,Demo Company 14,VietnamWorks,,2026-10-20
+DEMO-0051,Junior Data Analyst,Data Analyst,Junior,Bình Dương,,,SQL;Statistics;Excel;ETL;Data Visualization,Demo Company 15,LinkedIn,,2026-08-29
+DEMO-0052,Junior Data Analyst,Data Analyst,Junior,TP. Hồ Chí Minh,16.1,25.0,Statistics;SQL;Excel;Data Modeling;Data Visualization,Demo Company 16,VietnamWorks,,2026-08-15
+DEMO-0053,Senior Data Analyst,Data Analyst,Senior,Hà Nội,30.5,61.6,Excel;SQL;Tableau;Data Visualization;Data Modeling,Demo Company 17,LinkedIn,,2026-09-20
+DEMO-0054,Senior Cyber Security,Cyber Security,Senior,Hà Nội,29.2,59.2,Penetration Testing;SIEM;Network Security;Python;OWASP,Demo Company 18,VietnamWorks,,2026-09-05
+DEMO-0055,Intern Software Development,Software Development,Intern,Bình Dương,5.3,9.2,TypeScript;Java;JavaScript;AWS;SQL,Demo Company 01,LinkedIn,,2026-09-03
+DEMO-0056,Fresher Cyber Security,Cyber Security,Fresher,Đà Nẵng,6.3,15.3,Linux;Incident Response;ISO 27001;Python;OWASP,Demo Company 02,VietnamWorks,,2026-08-26
+DEMO-0057,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,7.4,15.3,Process Mapping;Agile;Requirements Gathering;Scrum;Stakeholder Management,Demo Company 03,LinkedIn,,2026-09-28
+DEMO-0058,Junior Software Development,Software Development,Junior,Hà Nội,15.6,26.9,Python;React;JavaScript;SQL;AWS,Demo Company 04,VietnamWorks,,2026-08-01
+DEMO-0059,Fresher IT Risk,IT Risk,Fresher,Hà Nội,8.1,12.6,Internal Audit;IT Governance;Information Security;Communication;AWS,Demo Company 05,LinkedIn,,2026-08-31
+DEMO-0060,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,7.3,14.5,Process Mapping;Jira;SQL;Scrum;Excel,Demo Company 06,VietnamWorks,,2026-08-28
+DEMO-0061,Junior Business Analyst,Business Analyst,Junior,Bình Dương,14.1,24.6,Jira;Agile;Process Mapping;Excel;Stakeholder Management,Demo Company 07,LinkedIn,,2026-09-20
+DEMO-0062,Junior Data Analyst,Data Analyst,Junior,TP. Hồ Chí Minh,,,SQL;Statistics;Python;ETL;Data Modeling,Demo Company 08,VietnamWorks,,2026-08-27
+DEMO-0063,Senior Data Analyst,Data Analyst,Senior,Hà Nội,30.8,57.1,SQL;Python;Power BI;Data Visualization;Communication,Demo Company 09,LinkedIn,,2026-09-07
+DEMO-0064,Intern Software Development,Software Development,Intern,Hà Nội,,,Java;Git;JavaScript;Docker;AWS,Demo Company 10,VietnamWorks,,2026-10-13
+DEMO-0065,Junior Cyber Security,Cyber Security,Junior,Hà Nội,13.9,27.1,Incident Response;Penetration Testing;SIEM;SOC;Vulnerability Assessment,Demo Company 11,LinkedIn,,2026-08-17
+DEMO-0066,Intern Cyber Security,Cyber Security,Intern,Bình Dương,,,Linux;Penetration Testing;SIEM;OWASP;SOC,Demo Company 12,VietnamWorks,,2026-09-28
+DEMO-0067,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,15.8,26.8,Risk Assessment;ISO 27001;Information Security;Communication;AWS,Demo Company 13,LinkedIn,,2026-08-31
+DEMO-0068,Junior Data Analyst,Data Analyst,Junior,Đà Nẵng,15.5,28.0,Excel;Power BI;SQL;ETL;Data Modeling,Demo Company 14,VietnamWorks,,2026-10-09
+DEMO-0069,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,,,Agile;SQL;Process Mapping;Communication;Stakeholder Management,Demo Company 15,LinkedIn,,2026-08-30
+DEMO-0070,Junior Business Analyst,Business Analyst,Junior,Bình Dương,15.0,24.5,Requirements Gathering;Business Analysis;Agile;Excel;Stakeholder Management,Demo Company 16,VietnamWorks,,2026-10-17
+DEMO-0071,Senior IT Risk,IT Risk,Senior,Đà Nẵng,32.8,62.0,Internal Audit;Information Security;Risk Assessment;SQL;AWS,Demo Company 17,LinkedIn,,2026-08-23
+DEMO-0072,Senior Software Development,Software Development,Senior,TP. Hồ Chí Minh,31.5,59.0,Python;TypeScript;JavaScript;AWS;SQL,Demo Company 18,VietnamWorks,,2026-09-17
+DEMO-0073,Senior Data Analyst,Data Analyst,Senior,TP. Hồ Chí Minh,30.2,61.7,Statistics;SQL;Power BI;Data Visualization;ETL,Demo Company 01,LinkedIn,,2026-09-26
+DEMO-0074,Intern Business Analyst,Business Analyst,Intern,Hà Nội,5.3,5.3,SQL;Business Analysis;Process Mapping;Stakeholder Management;Communication,Demo Company 02,VietnamWorks,,2026-08-23
+DEMO-0075,Junior Business Analyst,Business Analyst,Junior,Hà Nội,13.2,25.6,Jira;Agile;Business Analysis;Communication;Stakeholder Management,Demo Company 03,LinkedIn,,2026-10-25
+DEMO-0076,Senior Cyber Security,Cyber Security,Senior,Hà Nội,29.1,58.4,Linux;Network Security;Incident Response;OWASP;Python,Demo Company 04,VietnamWorks,,2026-10-09
+DEMO-0077,Senior Software Development,Software Development,Senior,TP. Hồ Chí Minh,30.7,58.9,TypeScript;Java;React;SQL;AWS,Demo Company 05,LinkedIn,,2026-10-04
+DEMO-0078,Junior Cyber Security,Cyber Security,Junior,Đà Nẵng,14.1,28.7,Incident Response;SIEM;ISO 27001;OWASP;Vulnerability Assessment,Demo Company 06,VietnamWorks,,2026-09-20
+DEMO-0079,Junior Cyber Security,Cyber Security,Junior,Hà Nội,14.8,26.9,SIEM;ISO 27001;Incident Response;SOC;Vulnerability Assessment,Demo Company 07,LinkedIn,,2026-10-04
+DEMO-0080,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,13.2,28.5,Internal Audit;COBIT;IT Governance;SQL;AWS,Demo Company 08,VietnamWorks,,2026-10-24
+DEMO-0081,Junior IT Risk,IT Risk,Junior,Hà Nội,16.5,26.6,IT Governance;COBIT;Risk Assessment;SQL;AWS,Demo Company 09,LinkedIn,,2026-08-06
+DEMO-0082,Intern IT Risk,IT Risk,Intern,Hà Nội,4.5,7.4,Risk Assessment;Information Security;COBIT;Communication;AWS,Demo Company 10,VietnamWorks,,2026-08-27
+DEMO-0083,Intern Cyber Security,Cyber Security,Intern,TP. Hồ Chí Minh,5.7,11.0,Penetration Testing;Network Security;Incident Response;OWASP;Python,Demo Company 11,LinkedIn,,2026-07-30
+DEMO-0084,Junior Data Analyst,Data Analyst,Junior,Hà Nội,13.2,28.8,Python;Tableau;Statistics;Communication;Data Visualization,Demo Company 12,VietnamWorks,,2026-09-27
+DEMO-0085,Junior Cyber Security,Cyber Security,Junior,Hà Nội,,,Linux;Network Security;Incident Response;Vulnerability Assessment;SOC,Demo Company 13,LinkedIn,,2026-08-15
+DEMO-0086,Fresher IT Risk,IT Risk,Fresher,Hà Nội,8.7,15.4,COBIT;Information Security;ISO 27001;Excel;SQL,Demo Company 14,VietnamWorks,,2026-09-14
+DEMO-0087,Fresher Cyber Security,Cyber Security,Fresher,Bình Dương,7.8,11.8,Incident Response;Penetration Testing;Network Security;Vulnerability Assessment;SOC,Demo Company 15,LinkedIn,,2026-08-16
+DEMO-0088,Junior Business Analyst,Business Analyst,Junior,Cần Thơ,16.9,27.9,Agile;Requirements Gathering;SQL;Communication;Scrum,Demo Company 16,VietnamWorks,,2026-09-29
+DEMO-0089,Senior Cyber Security,Cyber Security,Senior,TP. Hồ Chí Minh,,,SIEM;Linux;Network Security;OWASP;Vulnerability Assessment,Demo Company 17,LinkedIn,,2026-09-02
+DEMO-0090,Junior Data Analyst,Data Analyst,Junior,Hà Nội,,,Python;Tableau;Power BI;ETL;Data Visualization,Demo Company 18,VietnamWorks,,2026-10-12
+DEMO-0091,Senior Cyber Security,Cyber Security,Senior,TP. Hồ Chí Minh,30.1,57.0,Incident Response;SIEM;ISO 27001;OWASP;Vulnerability Assessment,Demo Company 01,LinkedIn,,2026-10-19
+DEMO-0092,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,15.7,26.4,IT Governance;Information Security;Risk Assessment;AWS;Excel,Demo Company 02,VietnamWorks,,2026-09-25
+DEMO-0093,Intern Cyber Security,Cyber Security,Intern,TP. Hồ Chí Minh,3.0,7.3,Penetration Testing;SIEM;Network Security;Vulnerability Assessment;SOC,Demo Company 03,LinkedIn,,2026-10-25
+DEMO-0094,Senior Cyber Security,Cyber Security,Senior,Hà Nội,29.9,56.4,Incident Response;SIEM;Penetration Testing;OWASP;SOC,Demo Company 04,VietnamWorks,,2026-10-23
+DEMO-0095,Fresher Data Analyst,Data Analyst,Fresher,Hà Nội,,,Statistics;Excel;Power BI;Communication;ETL,Demo Company 05,LinkedIn,,2026-08-04
+DEMO-0096,Junior Cyber Security,Cyber Security,Junior,Hà Nội,,,Incident Response;Network Security;Penetration Testing;SOC;Vulnerability Assessment,Demo Company 06,VietnamWorks,,2026-10-24
+DEMO-0097,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,7.5,15.9,Agile;SQL;Process Mapping;Stakeholder Management;Scrum,Demo Company 07,LinkedIn,,2026-09-23
+DEMO-0098,Senior IT Risk,IT Risk,Senior,Bình Dương,29.4,57.3,Internal Audit;IT Governance;Risk Assessment;Excel;SQL,Demo Company 08,VietnamWorks,,2026-09-27
+DEMO-0099,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,31.2,59.5,ISO 27001;Information Security;Internal Audit;Excel;SQL,Demo Company 09,LinkedIn,,2026-10-10
+DEMO-0100,Junior IT Risk,IT Risk,Junior,Hà Nội,,,Risk Assessment;ISO 27001;Internal Audit;Communication;Excel,Demo Company 10,VietnamWorks,,2026-08-14
+DEMO-0101,Intern Business Analyst,Business Analyst,Intern,TP. Hồ Chí Minh,,,Business Analysis;SQL;Requirements Gathering;Stakeholder Management;Scrum,Demo Company 11,LinkedIn,,2026-09-01
+DEMO-0102,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,16.8,24.3,Process Mapping;SQL;Agile;Communication;Excel,Demo Company 12,VietnamWorks,,2026-10-25
+DEMO-0103,Senior Data Analyst,Data Analyst,Senior,Đà Nẵng,29.4,60.3,Power BI;SQL;Statistics;Data Modeling;Communication,Demo Company 13,LinkedIn,,2026-10-10
+DEMO-0104,Intern Data Analyst,Data Analyst,Intern,Hà Nội,4.8,7.3,Statistics;Tableau;Python;Communication;Data Modeling,Demo Company 14,VietnamWorks,,2026-08-12
+DEMO-0105,Intern Software Development,Software Development,Intern,Hà Nội,4.6,9.6,React;Java;TypeScript;AWS;Docker,Demo Company 15,LinkedIn,,2026-09-06
+DEMO-0106,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,30.3,57.9,Agile;Process Mapping;Jira;Communication;Stakeholder Management,Demo Company 16,VietnamWorks,,2026-10-17
+DEMO-0107,Intern Data Analyst,Data Analyst,Intern,TP. Hồ Chí Minh,5.2,8.3,Statistics;Tableau;Python;Data Visualization;ETL,Demo Company 17,LinkedIn,,2026-09-13
+DEMO-0108,Senior Software Development,Software Development,Senior,Hà Nội,31.4,58.1,Git;React;Java;SQL;Agile,Demo Company 18,VietnamWorks,,2026-08-28
+DEMO-0109,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,29.5,57.7,ISO 27001;COBIT;Risk Assessment;Communication;Excel,Demo Company 01,LinkedIn,,2026-10-05
+DEMO-0110,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,13.0,29.2,SQL;Business Analysis;Requirements Gathering;Scrum;Excel,Demo Company 02,VietnamWorks,,2026-08-08
+DEMO-0111,Intern Data Analyst,Data Analyst,Intern,Hà Nội,3.8,5.9,Python;Tableau;SQL;Data Visualization;Communication,Demo Company 03,LinkedIn,,2026-10-08
+DEMO-0112,Intern Cyber Security,Cyber Security,Intern,TP. Hồ Chí Minh,3.7,8.6,Incident Response;SIEM;Linux;OWASP;Vulnerability Assessment,Demo Company 04,VietnamWorks,,2026-09-03
+DEMO-0113,Fresher Data Analyst,Data Analyst,Fresher,Hà Nội,8.7,10.3,Power BI;Statistics;SQL;Data Visualization;Communication,Demo Company 05,LinkedIn,,2026-09-20
+DEMO-0114,Junior IT Risk,IT Risk,Junior,Hà Nội,13.5,27.0,COBIT;ISO 27001;IT Governance;AWS;Communication,Demo Company 06,VietnamWorks,,2026-07-30
+DEMO-0115,Junior IT Risk,IT Risk,Junior,Đà Nẵng,13.3,29.2,Risk Assessment;COBIT;Internal Audit;AWS;Excel,Demo Company 07,LinkedIn,,2026-09-18
+DEMO-0116,Junior Cyber Security,Cyber Security,Junior,TP. Hồ Chí Minh,14.2,26.4,SIEM;Linux;Incident Response;Python;OWASP,Demo Company 08,VietnamWorks,,2026-09-03
+DEMO-0117,Fresher Data Analyst,Data Analyst,Fresher,Hà Nội,7.6,11.9,Python;Excel;Tableau;ETL;Data Visualization,Demo Company 09,LinkedIn,,2026-08-24
+DEMO-0118,Junior Data Analyst,Data Analyst,Junior,TP. Hồ Chí Minh,14.4,29.7,Tableau;Excel;Statistics;Data Visualization;Communication,Demo Company 10,VietnamWorks,,2026-09-26
+DEMO-0119,Fresher IT Risk,IT Risk,Fresher,TP. Hồ Chí Minh,6.3,15.7,Internal Audit;COBIT;IT Governance;AWS;Communication,Demo Company 11,LinkedIn,,2026-08-17
+DEMO-0120,Fresher Cyber Security,Cyber Security,Fresher,Bình Dương,7.8,12.8,Penetration Testing;SIEM;ISO 27001;OWASP;Vulnerability Assessment,Demo Company 12,VietnamWorks,,2026-08-25
+DEMO-0121,Fresher Data Analyst,Data Analyst,Fresher,TP. Hồ Chí Minh,,,Python;SQL;Statistics;Communication;ETL,Demo Company 13,LinkedIn,,2026-08-15
+DEMO-0122,Senior Cyber Security,Cyber Security,Senior,Hà Nội,,,ISO 27001;Linux;SIEM;SOC;Python,Demo Company 14,VietnamWorks,,2026-10-09
+DEMO-0123,Junior Data Analyst,Data Analyst,Junior,Đà Nẵng,16.9,24.5,Tableau;Excel;SQL;ETL;Data Modeling,Demo Company 15,LinkedIn,,2026-09-02
+DEMO-0124,Junior Software Development,Software Development,Junior,Hà Nội,16.7,26.3,JavaScript;Git;Python;Agile;Docker,Demo Company 16,VietnamWorks,,2026-09-16
+DEMO-0125,Junior Data Analyst,Data Analyst,Junior,TP. Hồ Chí Minh,16.4,29.8,Statistics;Excel;Python;Data Visualization;Data Modeling,Demo Company 17,LinkedIn,,2026-08-05
+DEMO-0126,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,31.6,56.8,Internal Audit;Risk Assessment;Information Security;AWS;Communication,Demo Company 18,VietnamWorks,,2026-09-16
+DEMO-0127,Junior IT Risk,IT Risk,Junior,Đà Nẵng,15.7,27.2,Internal Audit;COBIT;Information Security;Excel;SQL,Demo Company 01,LinkedIn,,2026-09-19
+DEMO-0128,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,29.8,62.0,ISO 27001;Risk Assessment;Information Security;Excel;Communication,Demo Company 02,VietnamWorks,,2026-08-20
+DEMO-0129,Intern Cyber Security,Cyber Security,Intern,TP. Hồ Chí Minh,2.5,7.3,Linux;Penetration Testing;ISO 27001;SOC;OWASP,Demo Company 03,LinkedIn,,2026-09-06
+DEMO-0130,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,14.1,28.5,Business Analysis;Jira;SQL;Excel;Scrum,Demo Company 04,VietnamWorks,,2026-10-04
+DEMO-0131,Junior Business Analyst,Business Analyst,Junior,Hà Nội,16.1,28.7,SQL;Process Mapping;Business Analysis;Scrum;Stakeholder Management,Demo Company 05,LinkedIn,,2026-08-12
+DEMO-0132,Senior IT Risk,IT Risk,Senior,TP. Hồ Chí Minh,30.5,61.6,Internal Audit;IT Governance;Risk Assessment;Communication;Excel,Demo Company 06,VietnamWorks,,2026-10-08
+DEMO-0133,Junior Business Analyst,Business Analyst,Junior,Hà Nội,13.4,29.5,Business Analysis;Agile;Requirements Gathering;Communication;Stakeholder Management,Demo Company 07,LinkedIn,,2026-09-08
+DEMO-0134,Fresher Cyber Security,Cyber Security,Fresher,TP. Hồ Chí Minh,,,Linux;Network Security;SIEM;OWASP;Python,Demo Company 08,VietnamWorks,,2026-08-06
+DEMO-0135,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,32.3,60.2,Jira;Business Analysis;SQL;Stakeholder Management;Communication,Demo Company 09,LinkedIn,,2026-10-26
+DEMO-0136,Fresher Business Analyst,Business Analyst,Fresher,TP. Hồ Chí Minh,8.4,12.5,Agile;Jira;Process Mapping;Stakeholder Management;Communication,Demo Company 10,VietnamWorks,,2026-09-28
+DEMO-0137,Junior Software Development,Software Development,Junior,Hà Nội,,,TypeScript;Git;Python;SQL;Agile,Demo Company 11,LinkedIn,,2026-10-10
+DEMO-0138,Junior Business Analyst,Business Analyst,Junior,Hà Nội,14.7,28.0,Requirements Gathering;SQL;Agile;Stakeholder Management;Excel,Demo Company 12,VietnamWorks,,2026-08-20
+DEMO-0139,Senior Cyber Security,Cyber Security,Senior,Hà Nội,,,Incident Response;Network Security;Penetration Testing;Python;Vulnerability Assessment,Demo Company 13,LinkedIn,,2026-10-26
+DEMO-0140,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,31.5,60.6,Process Mapping;Agile;Jira;Stakeholder Management;Scrum,Demo Company 14,VietnamWorks,,2026-08-20
+DEMO-0141,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,30.9,60.2,Process Mapping;Jira;SQL;Stakeholder Management;Excel,Demo Company 15,LinkedIn,,2026-08-31
+DEMO-0142,Fresher Data Analyst,Data Analyst,Fresher,TP. Hồ Chí Minh,,,SQL;Python;Statistics;Communication;Data Modeling,Demo Company 16,VietnamWorks,,2026-08-29
+DEMO-0143,Intern Business Analyst,Business Analyst,Intern,Hà Nội,5.4,5.4,Process Mapping;Agile;SQL;Stakeholder Management;Scrum,Demo Company 17,LinkedIn,,2026-09-03
+DEMO-0144,Junior Software Development,Software Development,Junior,Đà Nẵng,16.9,27.0,TypeScript;JavaScript;Git;Docker;Agile,Demo Company 18,VietnamWorks,,2026-09-04
+DEMO-0145,Junior Data Analyst,Data Analyst,Junior,Cần Thơ,,,Python;Tableau;SQL;Data Visualization;ETL,Demo Company 01,LinkedIn,,2026-08-05
+DEMO-0146,Fresher Business Analyst,Business Analyst,Fresher,Hà Nội,8.8,12.1,Requirements Gathering;Agile;Business Analysis;Excel;Communication,Demo Company 02,VietnamWorks,,2026-10-21
+DEMO-0147,Junior Data Analyst,Data Analyst,Junior,TP. Hồ Chí Minh,16.0,25.0,SQL;Excel;Power BI;Data Visualization;Communication,Demo Company 03,LinkedIn,,2026-10-20
+DEMO-0148,Junior IT Risk,IT Risk,Junior,TP. Hồ Chí Minh,15.3,27.6,Internal Audit;COBIT;Information Security;Communication;SQL,Demo Company 04,VietnamWorks,,2026-10-19
+DEMO-0149,Intern Cyber Security,Cyber Security,Intern,TP. Hồ Chí Minh,3.1,10.8,Network Security;Linux;Incident Response;SOC;Python,Demo Company 05,LinkedIn,,2026-10-13
+DEMO-0150,Junior Business Analyst,Business Analyst,Junior,Hà Nội,,,SQL;Agile;Business Analysis;Scrum;Stakeholder Management,Demo Company 06,VietnamWorks,,2026-10-11
+DEMO-0151,Junior Data Analyst,Data Analyst,Junior,Đà Nẵng,13.4,28.1,Python;Tableau;SQL;Data Modeling;ETL,Demo Company 07,LinkedIn,,2026-10-08
+DEMO-0152,Senior IT Risk,IT Risk,Senior,Hà Nội,,,ISO 27001;Internal Audit;IT Governance;AWS;Excel,Demo Company 08,VietnamWorks,,2026-09-12
+DEMO-0153,Junior Cyber Security,Cyber Security,Junior,TP. Hồ Chí Minh,13.5,29.3,Network Security;SIEM;Incident Response;SOC;Python,Demo Company 09,LinkedIn,,2026-09-06
+DEMO-0154,Senior Software Development,Software Development,Senior,TP. Hồ Chí Minh,31.6,58.7,React;Git;JavaScript;SQL;Agile,Demo Company 10,VietnamWorks,,2026-08-08
+DEMO-0155,Fresher Cyber Security,Cyber Security,Fresher,Bình Dương,9.6,10.3,Network Security;ISO 27001;Linux;Python;OWASP,Demo Company 11,LinkedIn,,2026-10-08
+DEMO-0156,Senior Business Analyst,Business Analyst,Senior,TP. Hồ Chí Minh,31.1,57.7,Requirements Gathering;Agile;Jira;Excel;Stakeholder Management,Demo Company 12,VietnamWorks,,2026-08-09
+DEMO-0157,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,15.4,27.5,Jira;SQL;Agile;Stakeholder Management;Communication,Demo Company 13,LinkedIn,,2026-10-18
+DEMO-0158,Senior Data Analyst,Data Analyst,Senior,Hà Nội,29.8,59.4,Statistics;SQL;Power BI;Data Modeling;Communication,Demo Company 14,VietnamWorks,,2026-09-20
+DEMO-0159,Fresher Software Development,Software Development,Fresher,Hà Nội,7.8,14.1,Java;TypeScript;Git;AWS;SQL,Demo Company 15,LinkedIn,,2026-10-02
+DEMO-0160,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,15.9,29.2,Business Analysis;Jira;Agile;Stakeholder Management;Scrum,Demo Company 16,VietnamWorks,,2026-09-28
+DEMO-0161,Intern Software Development,Software Development,Intern,TP. Hồ Chí Minh,,,Python;JavaScript;TypeScript;AWS;Docker,Demo Company 17,LinkedIn,,2026-10-08
+DEMO-0162,Senior Business Analyst,Business Analyst,Senior,Hà Nội,,,Jira;Business Analysis;SQL;Communication;Scrum,Demo Company 18,VietnamWorks,,2026-08-26
+DEMO-0163,Intern Data Analyst,Data Analyst,Intern,TP. Hồ Chí Minh,3.0,8.5,SQL;Tableau;Python;Communication;Data Modeling,Demo Company 01,LinkedIn,,2026-08-06
+DEMO-0164,Fresher Software Development,Software Development,Fresher,TP. Hồ Chí Minh,,,Java;JavaScript;Git;AWS;SQL,Demo Company 02,VietnamWorks,,2026-10-23
+DEMO-0165,Intern Software Development,Software Development,Intern,Hà Nội,3.2,7.3,TypeScript;Git;JavaScript;Docker;AWS,Demo Company 03,LinkedIn,,2026-10-16
+DEMO-0166,Fresher Software Development,Software Development,Fresher,Cần Thơ,7.5,10.9,Git;React;TypeScript;Docker;AWS,Demo Company 04,VietnamWorks,,2026-10-24
+DEMO-0167,Junior IT Risk,IT Risk,Junior,Hà Nội,13.6,29.4,ISO 27001;Information Security;IT Governance;SQL;AWS,Demo Company 05,LinkedIn,,2026-08-11
+DEMO-0168,Junior Business Analyst,Business Analyst,Junior,Hà Nội,15.0,27.4,Business Analysis;Requirements Gathering;Agile;Excel;Communication,Demo Company 06,VietnamWorks,,2026-10-14
+DEMO-0169,Junior Software Development,Software Development,Junior,Hà Nội,15.8,24.2,TypeScript;JavaScript;Java;Docker;Agile,Demo Company 07,LinkedIn,,2026-08-28
+DEMO-0170,Junior IT Risk,IT Risk,Junior,Hà Nội,14.5,28.9,ISO 27001;Risk Assessment;IT Governance;SQL;Excel,Demo Company 08,VietnamWorks,,2026-09-02
+DEMO-0171,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,,,SQL;Process Mapping;Business Analysis;Stakeholder Management;Excel,Demo Company 09,LinkedIn,,2026-10-11
+DEMO-0172,Fresher Cyber Security,Cyber Security,Fresher,TP. Hồ Chí Minh,8.1,11.9,Linux;Incident Response;SIEM;Python;SOC,Demo Company 10,VietnamWorks,,2026-08-02
+DEMO-0173,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,15.2,25.3,Agile;Process Mapping;Jira;Communication;Scrum,Demo Company 11,LinkedIn,,2026-08-28
+DEMO-0174,Junior Business Analyst,Business Analyst,Junior,Bình Dương,14.2,27.4,SQL;Business Analysis;Process Mapping;Excel;Stakeholder Management,Demo Company 12,VietnamWorks,,2026-09-21
+DEMO-0175,Fresher Data Analyst,Data Analyst,Fresher,Hà Nội,7.8,11.5,Power BI;Excel;Statistics;Data Modeling;Communication,Demo Company 13,LinkedIn,,2026-07-31
+DEMO-0176,Intern Business Analyst,Business Analyst,Intern,Hà Nội,3.0,9.0,SQL;Jira;Process Mapping;Stakeholder Management;Communication,Demo Company 14,VietnamWorks,,2026-09-06
+DEMO-0177,Junior Business Analyst,Business Analyst,Junior,TP. Hồ Chí Minh,13.0,27.3,Jira;Business Analysis;SQL;Communication;Excel,Demo Company 15,LinkedIn,,2026-10-03
+DEMO-0178,Fresher Business Analyst,Business Analyst,Fresher,Hà Nội,6.4,13.4,SQL;Requirements Gathering;Jira;Communication;Stakeholder Management,Demo Company 16,VietnamWorks,,2026-10-24
+DEMO-0179,Senior Software Development,Software Development,Senior,TP. Hồ Chí Minh,32.5,57.7,Python;React;JavaScript;Docker;SQL,Demo Company 17,LinkedIn,,2026-09-22
+DEMO-0180,Senior Software Development,Software Development,Senior,Hà Nội,32.8,61.1,TypeScript;JavaScript;Java;Docker;SQL,Demo Company 18,VietnamWorks,,2026-10-08
+DEMO-0181,Junior Software Development,Software Development,Junior,Hà Nội,,,JavaScript;React;Java;SQL;Agile,Demo Company 01,LinkedIn,,2026-08-08
+DEMO-0182,Senior Software Development,Software Development,Senior,Hà Nội,,,React;Python;Java;SQL;AWS,Demo Company 02,VietnamWorks,,2026-09-17
+DEMO-0183,Intern IT Risk,IT Risk,Intern,TP. Hồ Chí Minh,3.1,7.0,IT Governance;Internal Audit;Risk Assessment;Communication;AWS,Demo Company 03,LinkedIn,,2026-09-12
+DEMO-0184,Intern IT Risk,IT Risk,Intern,TP. Hồ Chí Minh,3.6,8.0,Internal Audit;Information Security;Risk Assessment;Communication;SQL,Demo Company 04,VietnamWorks,,2026-08-11
+DEMO-0185,Fresher IT Risk,IT Risk,Fresher,TP. Hồ Chí Minh,,,Internal Audit;IT Governance;Information Security;AWS;Communication,Demo Company 05,LinkedIn,,2026-08-19
+DEMO-0186,Junior Software Development,Software Development,Junior,Hà Nội,16.0,28.1,Git;Python;TypeScript;Agile;Docker,Demo Company 06,VietnamWorks,,2026-08-17
+DEMO-0187,Intern Data Analyst,Data Analyst,Intern,Hà Nội,4.3,5.9,Python;Statistics;Power BI;Data Visualization;Data Modeling,Demo Company 07,LinkedIn,,2026-10-02
+DEMO-0188,Junior Cyber Security,Cyber Security,Junior,Đà Nẵng,13.2,24.8,Incident Response;Penetration Testing;Network Security;SOC;Python,Demo Company 08,VietnamWorks,,2026-09-19
+DEMO-0189,Fresher Data Analyst,Data Analyst,Fresher,Đà Nẵng,8.3,10.3,Python;SQL;Statistics;Data Visualization;ETL,Demo Company 09,LinkedIn,,2026-10-24
+DEMO-0190,Junior Business Analyst,Business Analyst,Junior,Hà Nội,16.9,27.9,Business Analysis;Agile;Process Mapping;Communication;Scrum,Demo Company 10,VietnamWorks,,2026-09-10
+DEMO-0191,Junior Data Analyst,Data Analyst,Junior,Hà Nội,15.6,26.1,Excel;Statistics;Power BI;ETL;Data Modeling,Demo Company 11,LinkedIn,,2026-09-30
+DEMO-0192,Junior Data Analyst,Data Analyst,Junior,Bình Dương,15.9,26.5,Power BI;Excel;Statistics;Communication;ETL,Demo Company 12,VietnamWorks,,2026-10-09
+DEMO-0193,Fresher Business Analyst,Business Analyst,Fresher,Đà Nẵng,6.1,14.0,SQL;Requirements Gathering;Jira;Scrum;Stakeholder Management,Demo Company 13,LinkedIn,,2026-10-16
+DEMO-0194,Intern Cyber Security,Cyber Security,Intern,Hà Nội,2.2,9.4,Incident Response;Penetration Testing;Linux;Vulnerability Assessment;OWASP,Demo Company 14,VietnamWorks,,2026-10-11
+DEMO-0195,Senior Cyber Security,Cyber Security,Senior,TP. Hồ Chí Minh,31.3,59.5,Penetration Testing;SIEM;Linux;Python;OWASP,Demo Company 15,LinkedIn,,2026-08-05
+DEMO-0196,Fresher Cyber Security,Cyber Security,Fresher,TP. Hồ Chí Minh,,,ISO 27001;Linux;Incident Response;SOC;OWASP,Demo Company 16,VietnamWorks,,2026-09-14
+DEMO-0197,Senior Software Development,Software Development,Senior,TP. Hồ Chí Minh,29.6,58.3,Git;TypeScript;Java;SQL;AWS,Demo Company 17,LinkedIn,,2026-07-30
+DEMO-0198,Senior IT Risk,IT Risk,Senior,Đà Nẵng,32.9,59.3,ISO 27001;COBIT;Internal Audit;Communication;Excel,Demo Company 18,VietnamWorks,,2026-09-16
+DEMO-0199,Senior Data Analyst,Data Analyst,Senior,Đà Nẵng,,,Tableau;Excel;SQL;Data Modeling;ETL,Demo Company 01,LinkedIn,,2026-08-03
+DEMO-0200,Junior Cyber Security,Cyber Security,Junior,Đà Nẵng,,,ISO 27001;Penetration Testing;Linux;SOC;OWASP,Demo Company 02,VietnamWorks,,2026-09-16

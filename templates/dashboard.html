@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IT / Data Job Market Analysis</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" defer></script>
+<script src="{{ url_for('static', filename='js/dashboard.js') }}" defer></script>
+</head>
+<body>
+<div class="shell">
+<aside class="sidebar"><div class="brand"><span class="brandmark">◈</span> TalentScope <small>MARKET INTELLIGENCE</small></div>
+<div class="navitem active">▦ &nbsp; Tổng quan thị trường</div><div class="navitem">◷ &nbsp; Phân tích tuyển dụng</div>
+<div class="sidebar-bottom"><span class="status-dot"></span> Python Flask · SQLite <p>Dữ liệu mẫu là dữ liệu tổng hợp giả lập. Hãy tải CSV thực tế để có kết quả thực tế.</p></div></aside>
+<main class="content">
+<header><div><div class="eyebrow">VIETNAM · IT & DATA INSIGHTS</div><h1>Job Market <span>Analysis</span></h1><p class="subtitle">Phân tích nhu cầu tuyển dụng, kỹ năng và thu nhập theo cấp độ.</p></div><div class="header-tag">DATA ANALYTICS <span>2026</span></div></header>
+{% with messages = get_flashed_messages(with_categories=true) %}{% for category, message in messages %}<div class="alert {{ category }}">{{ message }}</div>{% endfor %}{% endwith %}
+<form class="filters" method="get" action="/"><label>Vị trí<select name="role"><option value="">Tất cả vị trí</option>{% for v in opts.roles %}<option value="{{ v }}" {% if filters.role == v %}selected{% endif %}>{{ v }}</option>{% endfor %}</select></label>
+<label>Cấp độ<select name="level"><option value="">Tất cả cấp độ</option>{% for v in opts.levels %}<option value="{{ v }}" {% if filters.level == v %}selected{% endif %}>{{ v }}</option>{% endfor %}</select></label>
+<label>Địa điểm<select name="city"><option value="">Toàn Việt Nam</option>{% for v in opts.cities %}<option value="{{ v }}" {% if filters.city == v %}selected{% endif %}>{{ v }}</option>{% endfor %}</select></label>
+<label>Nguồn<select name="source"><option value="">Tất cả nguồn</option>{% for v in opts.sources %}<option value="{{ v }}" {% if filters.source == v %}selected{% endif %}>{{ v }}</option>{% endfor %}</select></label>
+<button type="submit" class="apply">Áp dụng bộ lọc →</button><a class="reset" href="/">Xóa lọc</a></form>
+<div class="metrics"><article class="metric"><span>TỔNG TIN TUYỂN DỤNG</span><strong>{{ data.total }}</strong><small>Trong tập dữ liệu đang lọc</small></article>
+<article class="metric"><span>KỸ NĂNG HÀNG ĐẦU</span><strong>{{ data.top_skills[0].name if data.top_skills else '—' }}</strong><small>{{ data.top_skills[0].count if data.top_skills else 0 }} tin yêu cầu</small></article>
+<article class="metric"><span>THỊ TRƯỜNG LỚN NHẤT</span><strong>{{ data.cities[0].name if data.cities else '—' }}</strong><small>{{ data.cities[0].count if data.cities else 0 }} cơ hội tuyển dụng</small></article>
+<article class="metric"><span>TIN CÓ MỨC LƯƠNG</span><strong>{{ data.salary_sample }}</strong><small>Không gộp tin thiếu lương</small></article></div>
+<div class="charts"><section class="panel"><div class="panel-head"><div><h2>Top 5 kỹ năng yêu cầu</h2><p>Số tin tuyển dụng có đề cập kỹ năng</p></div><span class="pill">TOP SKILLS</span></div><div class="chartbox"><canvas id="skillsChart"></canvas></div></section>
+<section class="panel"><div class="panel-head"><div><h2>Mức lương trung bình theo cấp độ</h2><p>Triệu VND/tháng · chỉ tính tin có công bố lương</p></div><span class="pill">SALARY</span></div><div class="chartbox"><canvas id="salaryChart"></canvas></div></section>
+<section class="panel"><div class="panel-head"><div><h2>Nhu cầu tuyển dụng theo địa điểm</h2><p>Đếm số tin theo thành phố/khu vực</p></div><span class="pill">LOCATION</span></div><div class="chartbox"><canvas id="cityChart"></canvas></div></section>
+<section class="panel"><div class="panel-head"><div><h2>Cơ cấu vị trí tuyển dụng</h2><p>Tỷ trọng các nhóm vị trí IT / Data</p></div><span class="pill">DISTRIBUTION</span></div><div class="chartbox donut"><canvas id="roleChart"></canvas></div></section></div>
+<section class="panel listing"><div class="panel-head"><div><h2>Danh sách tin tuyển dụng</h2><p>100 tin gần nhất theo bộ lọc · liên kết gốc nếu được cung cấp</p></div><span class="pill">JOB LISTINGS</span></div><div class="table-wrap"><table><thead><tr><th>Vị trí / Công ty</th><th>Cấp độ</th><th>Địa điểm</th><th>Mức lương (triệu/tháng)</th><th>Nguồn</th><th>Ngày đăng</th></tr></thead><tbody>{% for job in items %}<tr><td><b>{% if job.source_url %}<a href="{{ job.source_url }}" target="_blank" rel="noopener noreferrer">{{ job.title }}</a>{% else %}{{ job.title }}{% endif %}</b><small>{{ job.company }} · {{ job.skills | join(', ') }}</small></td><td><span class="level">{{ job.level }}</span></td><td>{{ job.city }}</td><td>{% if job.salary_min is not none or job.salary_max is not none %}{{ job.salary_min if job.salary_min is not none else '—' }} – {{ job.salary_max if job.salary_max is not none else '—' }}{% else %}Không công bố{% endif %}</td><td>{{ job.source }}</td><td>{{ job.posted_date }}</td></tr>{% else %}<tr><td colspan="6" class="empty">Chưa có dữ liệu phù hợp. Hãy nhập CSV hoặc đổi bộ lọc.</td></tr>{% endfor %}</tbody></table></div></section>
+<section class="upload panel"><div><h2>Nhập dữ liệu tuyển dụng CSV</h2><p>Chuẩn hóa dữ liệu đã thu thập hợp lệ từ LinkedIn / VietnamWorks; không có chức năng tự động thu thập.</p><a href="{{ url_for('static', filename='sample_jobs.csv') }}" download>↓ Tải CSV mẫu</a></div><form method="post" action="/upload" enctype="multipart/form-data"><input type="file" name="file" accept=".csv,text/csv" required><button type="submit" class="apply">Nhập dữ liệu</button></form></section>
+<footer><span>TalentScope · Educational analytics project</span><span>Dữ liệu minh họa không phản ánh tình hình tuyển dụng thực tế.</span></footer>
+</main></div>
+<script id="chart-data" type="application/json">{{ data | tojson }}</script>
+</body></html>
